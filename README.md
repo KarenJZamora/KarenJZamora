@@ -1,4 +1,4 @@
-# ¡Hola, soy Karen Zamora! 👋
+# ¡Hola, soy Karen Julieth Zamora Salazar! 👋
 
 ## 🚀 Perfil Profesional
 Desarrolladora con un enfoque sólido en **Análisis de Datos** e **IA Generativa**. Cuento con experiencia técnica en el sector bancario gestionando flujos de incidentes y escalamientos críticos. Poseo una formación técnica avanzada en **Python** acreditada por Cisco y un dominio destacado del ecosistema de datos de **Microsoft**.
@@ -7,56 +7,55 @@ Desarrolladora con un enfoque sólido en **Análisis de Datos** e **IA Generativ
 
 ## 💼 Experiencia Técnica Relevante
 
-### **Agente / Back Office Bancario** | [cite_start]Teleperformance (2019 - 2023) [cite: 32]
-* [cite_start]**Gestión de Incidentes:** Resolución de peticiones, quejas y reclamos a través de canales digitales y aplicativos[cite: 32].
-* [cite_start]**Escalamientos:** Ejecución de escalamientos críticos siguiendo procedimientos operativos para garantizar la satisfacción del usuario[cite: 32].
-* [cite_start]**Integridad de Datos:** Registro y tipificación de interacciones en herramientas corporativas para asegurar la trazabilidad de los casos[cite: 32].
+### **Agente / Back Office Bancario** | Teleperformance (2019 - 2023)
+* **Gestión de Incidentes:** Resolución de peticiones, quejas y reclamos a través de canales digitales y aplicativos.
+* **Escalamientos:** Ejecución de escalamientos críticos siguiendo procedimientos operativos para garantizar la satisfacción del usuario.
+* **Integridad de Datos:** Registro y tipificación de interacciones en herramientas corporativas para asegurar la trazabilidad de los casos.
 
 ---
 
 ## 🎓 Formación y Logros Académicos
 
 ### 🐍 Programación Python
-- **Python Essentials 2 (Intermediate)** | [cite_start]Python Institute & Cisco Academy (2026)[cite: 33, 35].
-- **Python Essentials 1 (Foundations)** | [cite_start]Python Institute & Cisco Academy (2026)[cite: 30, 31].
+- **Python Essentials 2 (Intermediate)** | Python Institute & Cisco Academy (2026).
+- **Python Essentials 1 (Foundations)** | Python Institute & Cisco Academy (2026).
 
 ### 🤖 Inteligencia Artificial (IA) y Cloud
-- **Prompting Responsable: IA en el Negocio** | [cite_start]Microsoft & Founderz (2026)[cite: 17].
-- **Domina la IA con Gemini** | [cite_start]Google & Santander (2026)[cite: 4].
-- **Crear Informes Interactivos con Copilot para Power BI** | [cite_start]Microsoft Learn (2026)[cite: 14].
+- **Prompting Responsable: IA en el Negocio** | Microsoft & Founderz (2026).
+- **Domina la IA con Gemini** | Google & Santander (2026).
+- **Crear Informes Interactivos con Copilot para Power BI** | Microsoft Learn (2026).
 - **Aceleración del desarrollo con GitHub Copilot** | Microsoft (En curso).
 
 ### 📊 Análisis de Datos y Bases de Datos
-- **SQL Quizmaster (Silver & Bronze Trophies)** | [cite_start]Oracle Dev Gym (2026)[cite: 19, 23].
-- **Databases for Developers: Foundations** | [cite_start]Oracle Corporation (2026)[cite: 25].
-- **Diseño y administración de soluciones mediante Power BI** | [cite_start]Microsoft Learn (2026)[cite: 15].
-- **Introducción al análisis de datos de Microsoft** | [cite_start]Microsoft Learn (2026)[cite: 8].
+- **SQL Quizmaster (Silver & Bronze Trophies)** | Oracle Dev Gym (2026).
+- **Databases for Developers: Foundations** | Oracle Corporation (2026).
+- **Diseño y administración de soluciones mediante Power BI** | Microsoft Learn (2026).
+- **Introducción al análisis de datos de Microsoft** | Microsoft Learn (2026).
 
 ### 💻 Ingeniería Web e Inmobiliaria
-- **Programación Web Básica (HTML, CSS, JS)** | [cite_start]Tec de Monterrey (Calificación: 100/100).
-- **Creación y Diseño de Páginas Web** | [cite_start]Tec de Monterrey (Calificación: 90/100)[cite: 12].
-- **Diplomado en Gestión Inmobiliaria** | [cite_start]Politécnico Mayor (120h)[cite: 3].
-- **Digital Skills: Succeeding in a Digital World** | [cite_start]The Open University (2026)[cite: 18].
+- **Programación Web Básica (HTML, CSS, JS)** | Tec de Monterrey (Calificación: 100/100).
+- **Creación y Diseño de Páginas Web** | Tec de Monterrey (Calificación: 90/100).
+- **Diplomado en Gestión Inmobiliaria** | Politécnico Mayor (120h).
+- **Digital Skills: Succeeding in a Digital World** | The Open University (2026).
 
 ---
 
-## 🌍 Formación en Inglés
+## 🌍 Formación en Inglés 
 
-* **Upper-Intermediate English (ESL003)** | [cite_start]Saylor Academy (Grade: 96%) — *Abril 2026*[cite: 16].
-* **Inglés Avanzado (Curso de 30h)** | [cite_start]Sapiencia - Alcaldía de Medellín — *Marzo 2026*[cite: 5].
-* **Intermediate English (ESL002)** | [cite_start]Saylor Academy (Grade: 88.89%) — *Marzo 2026*[cite: 11].
-* **Elementary English (ESL001)** | [cite_start]Saylor Academy (Grade: 96%) — *Marzo 2026*[cite: 10].
-* **Business English, Part 1** | [cite_start]Santander Open Academy (8h) — *Enero 2026*[cite: 2].
-* **Inglés B1.2 Sector BPO (Yes, Bogotá)** | [cite_start]Centro Colombo Americano (160h) — *Diciembre 2025*[cite: 1].
-* **Inglés Intermedio en Vivo** | [cite_start]Educativa Blendex (150h) — *Diciembre 2024*[cite: 7].
+* **Upper-Intermediate English (ESL003)** | Saylor Academy (Grade: 96%) — *Abril 2026*.
+* **Inglés Avanzado (Curso de 30h)** | Sapiencia - Alcaldía de Medellín — *Marzo 2026*.
+* **Intermediate English (ESL002)** | Saylor Academy (Grade: 88.89%) — *Marzo 2026*.
+* **Elementary English (ESL001)** | Saylor Academy (Grade: 96%) — *Marzo 2026*.
+* **Business English, Part 1** | Santander Open Academy (8h) — *Enero 2026*.
+* **Inglés B1.2 Sector BPO (Yes, Bogotá)** | Centro Colombo Americano (160h) — *Diciembre 2025*.
+* **Inglés Intermedio en Vivo** | Educativa Blendex (150h) — *Diciembre 2024*.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://www.credly.com/earner/earned/badge/9f1b697e-b32c-4664-9a63-aa92ecdd76e5)
+![SQL](https://devgym.oracle.com/pls/apex/f?p=10001:26:17799360770308:::26:P26_USER_ID:609701)
+![PowerBI](https://learn.microsoft.com/api/achievements/share/es-es/KarenJuliethZamoraSalazar-4397/82CLXZVW?sharingId=FCDE14378226A725)
 
 ---
 
