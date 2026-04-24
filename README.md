@@ -1,4 +1,4 @@
-# ¡Hola, soy Karen Julieth Zamora Salazar! 👋
+# ¡Hola, soy Karen Zamora! 👋
 
 ## 🚀 Perfil Profesional
 Desarrolladora con un enfoque sólido en **Análisis de Datos** e **IA Generativa**. Cuento con experiencia técnica en el sector bancario gestionando flujos de incidentes y escalamientos críticos. Poseo una formación técnica avanzada en **Python** acreditada por Cisco y un dominio destacado del ecosistema de datos de **Microsoft**.
