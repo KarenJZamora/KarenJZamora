@@ -17,7 +17,7 @@ Desarrolladora con un enfoque sólido en **Análisis de Datos** e **IA Generativ
 ## 🎓 Formación y Logros Académicos
 
 ### 🐍 Programación Python
-- **Python Essentials 2 (Intermediate)** | Python Institute & Cisco Academy (2026). [Ver Certificado](Certificate PE1.pdf)
+- **Python Essentials 2 (Intermediate)** | Python Institute & Cisco Academy (2026). 
 - **Python Essentials 1 (Foundations)** | Python Institute & Cisco Academy (2026).
 
 ### 🤖 Inteligencia Artificial (IA) y Cloud
