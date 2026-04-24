@@ -52,12 +52,5 @@ Desarrolladora con un enfoque sólido en **Análisis de Datos** e **IA Generativ
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
-![Python](https://www.credly.com/earner/earned/badge/9f1b697e-b32c-4664-9a63-aa92ecdd76e5)
-![SQL](https://devgym.oracle.com/pls/apex/f?p=10001:26:17799360770308:::26:P26_USER_ID:609701)
-![PowerBI](https://learn.microsoft.com/api/achievements/share/es-es/KarenJuliethZamoraSalazar-4397/82CLXZVW?sharingId=FCDE14378226A725)
-
----
-
 ### 📫 Conectemos
 - **Correo:** kazamora06@gmail.com
