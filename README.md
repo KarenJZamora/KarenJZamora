@@ -1,8 +1,7 @@
-
 # ¡Hola, soy Karen Zamora! 👋
 
 ## 🚀 Perfil Profesional
-Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA Generativa con experiencia técnica gestionando procesos críticos en el sector financiero. Poseo una formación avanzada acreditada por Cisco y Microsoft.
+**Analista de Datos & Back Office Bancario Bilingüe.** Especialista en Python e IA Generativa con experiencia técnica gestionando procesos críticos en el sector financiero. Poseo una formación avanzada acreditada por Cisco y Microsoft.
 
 ---
 
@@ -21,11 +20,10 @@ Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA 
 ## 🎓 Formación y Logros Académicos
 
 ### 🐍 Programación Python
-- **Python Essentials 2 (Intermediate)** | Python Institute & Cisco Academy (2026). 
-- **Python Essentials 1 (Foundations)** | Python Institute & Cisco Academy (2026).
+* **Python Essentials 2 (Intermediate)** | Python Institute & Cisco Academy (2026).
+* **Python Essentials 1 (Foundations)** | Python Institute & Cisco Academy (2026).
 
-## 🤖 Inteligencia Artificial (IA) y Cloud
-
+### 🤖 Inteligencia Artificial (IA) y Cloud
 * **Aceleración del desarrollo con GitHub Copilot** | Microsoft Learn (2026)
     * *Estado:* Ruta de aprendizaje completada / Evaluación final en curso.
     * *Key Skills:* Refactorización en C#, Unit Testing asistido por IA y documentación técnica.
@@ -34,29 +32,26 @@ Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA 
 * **Domina la IA con Gemini** | Google & Santander (2026).
 
 ### 📊 Análisis de Datos y Bases de Datos
-- **Databases for Developers: Foundations** | Oracle Dev Gym (2026).
-- **Diseño y administración de soluciones mediante Power BI** | Microsoft Learn (2026).
-- **Introducción al análisis de datos de Microsoft** | Microsoft Learn (2026).
+* **Databases for Developers: Foundations** | Oracle Dev Gym (2026).
+* **Diseño y administración de soluciones mediante Power BI** | Microsoft Learn (2026).
+* **Introducción al análisis de datos de Microsoft** | Microsoft Learn (2026).
 
-## 💻 Ingeniería Web e Inmobiliaria
-
-
+### 💻 Ingeniería Web e Inmobiliaria
 * **Programación Web Básica (HTML, CSS, JS)** | Tec de Monterrey (2026).
 * **Creación y Diseño de Páginas Web** | Tec de Monterrey (2026).
 * **Digital Skills: Succeeding in a Digital World** | The Open University (2026).
 * **Diplomado en Gestión Inmobiliaria** | Politécnico Mayor (2025).
-  
+
 ---
 
-## 🌍 Formación en Inglés 
-
-
+## 🌍 Formación en Inglés
 * **Upper-Intermediate English (ESL003)** | Saylor Academy (2026).
 * **Inglés Avanzado** | Sapiencia - Alcaldía de Medellín (2026).
 * **Business English** | Santander Open Academy (2026).
 * **Inglés B1.2 Sector BPO** | Centro Colombo Americano (2025).
 * **Inglés Intermedio** | Educativa Blendex (2024).
+
 ---
 
-### 📫 Conectemos
-- **Correo:** kazamora06@gmail.com
+## 📫 Conectemos
+* **Correo:** kazamora06@gmail.com
