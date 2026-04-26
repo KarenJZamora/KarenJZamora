@@ -1,7 +1,7 @@
 # ¡Hola, soy Karen Zamora! 👋
 
 ## 🚀 Perfil Profesional
-**Analista de Datos & Back Office Bancario Bilingüe.** Especialista en Python e IA Generativa con experiencia técnica gestionando procesos críticos en el sector financiero. Poseo una formación avanzada acreditada por Cisco y Microsoft.
+**Analista de Datos & Back Office Bancario.** Especialista en Python e IA Generativa con experiencia técnica gestionando procesos críticos en el sector financiero. Poseo una formación avanzada acreditada por Cisco y Microsoft.
 
 ---
 
