@@ -24,11 +24,14 @@ Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA 
 - **Python Essentials 2 (Intermediate)** | Python Institute & Cisco Academy (2026). 
 - **Python Essentials 1 (Foundations)** | Python Institute & Cisco Academy (2026).
 
-### 🤖 Inteligencia Artificial (IA) y Cloud
-- **Prompting Responsable: IA en el Negocio** | Microsoft & Founderz (2026).
-- **Domina la IA con Gemini** | Google & Santander (2026).
-- **Crear Informes Interactivos con Copilot para Power BI** | Microsoft Learn (2026).
-- **Aceleración del desarrollo con GitHub Copilot** | Microsoft (En curso).
+## 🤖 Inteligencia Artificial (IA) y Cloud
+
+* **Aceleración del desarrollo con GitHub Copilot** | Microsoft Learn (2026)
+    * *Estado:* Ruta de aprendizaje completada / Evaluación final en curso.
+    * *Key Skills:* Refactorización en C#, Unit Testing asistido por IA y documentación técnica.
+* **Crear Informes Interactivos con Copilot para Power BI** | Microsoft Learn (2026).
+* **Prompting Responsable: IA en el Negocio** | Microsoft & Founderz (2026).
+* **Domina la IA con Gemini** | Google & Santander (2026).
 
 ### 📊 Análisis de Datos y Bases de Datos
 - **SQL Quizmaster (Silver & Bronze Trophies)** | Oracle Dev Gym (2026).
