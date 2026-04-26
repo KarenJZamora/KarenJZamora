@@ -38,24 +38,24 @@ Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA 
 - **Diseño y administración de soluciones mediante Power BI** | Microsoft Learn (2026).
 - **Introducción al análisis de datos de Microsoft** | Microsoft Learn (2026).
 
-### 💻 Ingeniería Web e Inmobiliaria
-- **Programación Web Básica (HTML, CSS, JS)** | Tec de Monterrey (Calificación: 100/100).
-- **Creación y Diseño de Páginas Web** | Tec de Monterrey (Calificación: 90/100).
-- **Diplomado en Gestión Inmobiliaria** | Politécnico Mayor (120h).
-- **Digital Skills: Succeeding in a Digital World** | The Open University (2026).
+## 💻 Ingeniería Web e Inmobiliaria
 
+
+* **Programación Web Básica (HTML, CSS, JS)** | Tec de Monterrey (2026).
+* **Creación y Diseño de Páginas Web** | Tec de Monterrey (2026).
+* **Digital Skills: Succeeding in a Digital World** | The Open University (2026).
+* **Diplomado en Gestión Inmobiliaria** | Politécnico Mayor (2025).
+  
 ---
 
 ## 🌍 Formación en Inglés 
 
-* **Upper-Intermediate English (ESL003)** | Saylor Academy (Grade: 96%) — *Abril 2026*.
-* **Inglés Avanzado (Curso de 30h)** | Sapiencia - Alcaldía de Medellín — *Marzo 2026*.
-* **Intermediate English (ESL002)** | Saylor Academy (Grade: 88.89%) — *Marzo 2026*.
-* **Elementary English (ESL001)** | Saylor Academy (Grade: 96%) — *Marzo 2026*.
-* **Business English, Part 1** | Santander Open Academy (8h) — *Enero 2026*.
-* **Inglés B1.2 Sector BPO (Yes, Bogotá)** | Centro Colombo Americano (160h) — *Diciembre 2025*.
-* **Inglés Intermedio en Vivo** | Educativa Blendex (150h) — *Diciembre 2024*.
 
+* **Upper-Intermediate English (ESL003)** | Saylor Academy (2026).
+* **Inglés Avanzado** | Sapiencia - Alcaldía de Medellín (2026).
+* **Business English** | Santander Open Academy (2026).
+* **Inglés B1.2 Sector BPO** | Centro Colombo Americano (2025).
+* **Inglés Intermedio** | Educativa Blendex (2024).
 ---
 
 ### 📫 Conectemos
