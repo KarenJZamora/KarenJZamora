@@ -8,10 +8,13 @@ Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA 
 
 ## 💼 Experiencia Técnica Relevante
 
-### **Agente / Back Office Bancario** | Teleperformance (2019 - 2023)
-* **Gestión de Incidentes:** Resolución de peticiones, quejas y reclamos a través de canales digitales y aplicativos.
-* **Escalamientos:** Ejecución de escalamientos críticos siguiendo procedimientos operativos para garantizar la satisfacción del usuario.
-* **Integridad de Datos:** Registro y tipificación de interacciones en herramientas corporativas para asegurar la trazabilidad de los casos.
+### **Agente / Back Office Bancario (Especialista en Soporte Técnico)** | Teleperformance (2019 - 2023)
+
+* **Gestión de Incidentes Digitales:** Resolución de errores técnicos en Banca en Línea y Apps móviles, actuando como enlace especializado entre la primera línea y el área de ingeniería.
+* **Documentación de Bugs & QA:** Estructuración de informes técnicos detallados (PDFs con evidencia visual y flujos de falla) para el equipo de desarrollo, optimizando los tiempos de resolución de incidencias de software.
+* **Análisis de Datos y Reporting:** Elaboración diaria de informes métricos sobre el volumen de incidentes en plataforma, proporcionando visibilidad a la gerencia sobre la estabilidad del producto.
+* **Atención VIP (High-Touch Support):** Gestión directa y resolución de casos críticos para clientes de perfil preferencial, garantizando la satisfacción del usuario mediante soluciones técnicas efectivas.
+* **Alineación con Producto:** Participación en comités semanales con ejecutivos para el análisis de nuevas actualizaciones y mejoras en la experiencia de usuario (UX/UI).
 
 ---
 
