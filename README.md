@@ -34,8 +34,7 @@ Analista de Datos & Back Office Bancario Bilingüe. Especialista en Python e IA 
 * **Domina la IA con Gemini** | Google & Santander (2026).
 
 ### 📊 Análisis de Datos y Bases de Datos
-- **SQL Quizmaster (Silver & Bronze Trophies)** | Oracle Dev Gym (2026).
-- **Databases for Developers: Foundations** | Oracle Corporation (2026).
+- **Databases for Developers: Foundations** | Oracle Dev Gym (2026).
 - **Diseño y administración de soluciones mediante Power BI** | Microsoft Learn (2026).
 - **Introducción al análisis de datos de Microsoft** | Microsoft Learn (2026).
 
