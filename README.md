@@ -13,7 +13,7 @@
 * **Documentación de Bugs & QA:** Estructuración de informes técnicos detallados (PDFs con evidencia visual y flujos de falla) para el equipo de desarrollo, optimizando los tiempos de resolución de incidencias de software.
 * **Análisis de Datos y Reporting:** Elaboración diaria de informes métricos sobre el volumen de incidentes en plataforma, proporcionando visibilidad a la gerencia sobre la estabilidad del producto.
 * **Atención VIP (High-Touch Support):** Gestión directa y resolución de casos críticos para clientes de perfil preferencial, garantizando la satisfacción del usuario mediante soluciones técnicas efectivas.
-* **Alineación con Producto:** Participación en comités semanales con ejecutivos para el análisis de nuevas actualizaciones y mejoras en la experiencia de usuario (UX/UI).
+* **Alineación con Producto:** Participación en comités con ejecutivos para el análisis de nuevas actualizaciones y mejoras en la experiencia de usuario (UX/UI).
 
 ---
 
